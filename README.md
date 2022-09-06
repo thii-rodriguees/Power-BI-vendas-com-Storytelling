@@ -9,7 +9,8 @@ Colocando em prática os conceitos de STORYTELLING
 -Realização do relacionamento entre as Tabelas, FATO e DIMENSÕES.
 -E Também a criação de medidas utilizando o DAX de forma mais aprofundada.
 
-#CONCLUSÃO - Apesar da Conclusão constar no projeto original, é apenas uma pequena parte do que podemos extrair a partir dos insights levantados, e do  storytelling, por isso entender completamente sobre o modelo de negócio no qual iremos trabalhar é fundamental. 
+## CONCLUSÃO
+- Apesar do resumo de conclusão constar no projeto original, é viável reforçar que consta apenas uma pequena parte do que podemos extrair a partir dos insights levantados, e do  storytelling, por isso entender completamente sobre o modelo de negócio no qual iremos trabalhar é fundamental. 
 
 
 
