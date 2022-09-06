@@ -5,7 +5,7 @@ Colocando em prática os conceitos de STORYTELLING
 
 ## INTRODUÇÃO AOS CONCEITOS DE STORYTELLING
 - Buscando aprimorar meus conhecimentos em PBI, iniciei um curso com a FLAI onde as aulas de Power BI, são ministradas pela Juliana Scudio.
-- Conforme o padrão dos Dashbnoards anteriores, manteve-se a parte de ETL feita em POWER-QUERY o que me abriu novos caminhos para solução e tratamento de erros de diversas novas formas. 
+- Conforme o padrão dos Dashboards anteriores, manteve-se a parte de ETL feita em POWER-QUERY o que me abriu novos caminhos para solução e tratamento de erros de diversas novas formas.
 - Realização do relacionamento entre as Tabelas, FATO e DIMENSÕES.
 - E Também a criação de medidas utilizando o DAX de forma mais aprofundada.
 
